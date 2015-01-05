@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://www.blog-lvgal.fr//github/atom.xml" rel="self"/>
+  <link href="http://www.blog-lvgal.fr//github/"/>
+  <updated>2015-01-05T09:36:51+01:00</updated>
+  <id>http://www.blog-lvgal.fr//github/</id>
+  <author>
+    <name><![CDATA[Liogal]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test De Post]]></title>
+    <link href="http://www.blog-lvgal.fr//github/blog/2015/01/06/test-de-post/"/>
+    <updated>2015-01-06T09:09:00+01:00</updated>
+    <id>http://www.blog-lvgal.fr//github/blog/2015/01/06/test-de-post</id>
+    <content type="html"><![CDATA[<p>Text du post.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test De Post]]></title>
+    <link href="http://www.blog-lvgal.fr//github/blog/2015/01/05/test-de-post/"/>
+    <updated>2015-01-05T09:10:52+01:00</updated>
+    <id>http://www.blog-lvgal.fr//github/blog/2015/01/05/test-de-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
